@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 gogoggogo
 devdevdev
 create a new branch is quick and simple.
+fix bug.
